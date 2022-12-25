@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xiami2019.
+- 👋 Hi, I’m Qinyuan Cheng @xiami2019.
 - 👀 I’m interested in Natural Language Processing and Machine Learning.
 - 🌱 I’m currently learning at Fudan University.
 
